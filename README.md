@@ -22,18 +22,6 @@ This section aims to implement a Multilayer Perceptron (MLP) model for predictin
    - Evaluate model performance using precision, recall, F1-score, and confusion matrix.
    - Utilize scikit-learn library for simplifying evaluation process.
 
-**Example Implementation:**
-
-You can find an example of MLP model implementation using TensorFlow on the MNIST dataset [here](https://link-to-example).
-
-**Note:** While this section aims to explore hyperparameters' impact, real-world model selection processes may differ. Careful analysis of model performance and validation is crucial for practical deployment.
-
-**References:**
-- [Breast Cancer Dataset](link-to-dataset)
-- [TensorFlow Documentation](link-to-tensorflow-docs)
-- [scikit-learn Documentation](link-to-scikit-learn-docs)
-
-For detailed explanations of features, refer to the "Breast cancer" file provided.
 
 **Report:**
 
